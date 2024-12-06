@@ -1,4 +1,3 @@
-![linux-directory-structure](https://github.com/user-attachments/assets/abf73a01-295b-4aa5-b923-499160f55dc5)
 ![linux-directory-structure](https://github.com/user-attachments/assets/5623da53-8511-4397-83a6-ee9aee18ba85)# Linux-File-Hierarchy
 The root directory (`/`) is the top-level directory in Linux. Every file and directory starts from here. It is the beginning of the file system hierarchy.
 
